@@ -19,7 +19,7 @@ unobtrusively integrated into any application or framework that supports
 ## Install
 
 ```bash
-$ npm install passport-local
+$  npm install jlucidar/passport-restify-local
 ```
 
 ## Usage
